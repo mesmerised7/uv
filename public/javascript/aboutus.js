@@ -91,6 +91,6 @@ function searchfeature(){
     catch{
         console.log(1)
     }
-    document.querySelector(".products").innerHTML=allhtml;
+    document.querySelector(".productss").innerHTML=allhtml;
 }
     navfunc();
