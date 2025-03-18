@@ -138,7 +138,7 @@ function searchfeature(){
     })
     document.querySelector(".box").style.display="none";
     console.log(allhtml)
-    document.querySelector('.products').innerHTML=allhtml;
+    document.querySelector('.productss').innerHTML=allhtml;
 }
 
 navfunc();
