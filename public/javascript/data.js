@@ -2,7 +2,7 @@ export let products=[
     {
         id:1,
         name:'SPUR GEAR',
-        image:'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDW91zi-_wmVvsk5z6f4fnrhwH2DvvGY1V0Rw7hqkR2SaH7AAa',
+        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxaxxpeV9Q9SGLnJdOwlL20PwWgzywXPUYNVFDqCUzBx3NRYbJ',
         description:'DURABLE TRANSMISSION SPURGEARS FOR TRACTOR GEARBOXES. MADE FROM FORGED STEEL, HEATTREATED FOR STRENGTH,PROVIDING SMOOTH, RELIABLE GEAR SHIFTING IN HEAVY-DUTY APPLICATIONS.',
         search:['TRACTORS']
     },
@@ -44,7 +44,7 @@ export let products=[
     {
         id:7,
         name:'BLADES',
-        image:'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ5QQcDAAlcg6BR-tkWEjj-RFXF0cIdoSCzb9Y8YRKjBreBrazu',
+        image:'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9jeht7w9pA8yi7W7FD6YM1vwbPEJeDUgytOqzuLyAYAztcqns',
         description:'HIGH-QUALITY ROTAVATOR BLADES MADE FROM HIGH-CARBON ORBORON STEEL. PRECISION-FORGEDFOR DURABILITY AND SHARPNESS,ENSURING EFFICIENT SOIL CUTTING AND LONGER LIFE IN TOUGH CONDITIONS',
         search:['ROTAVATORS']
     },
@@ -65,7 +65,7 @@ export let products=[
     {
         id:10,
         name:'YOKES',
-        image:'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRbfTvA7bNrZcKq_9An0ql9lrUDfWrm3K8lib1zGIhW1BLV-K7S',
+        image:'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQo9Urp6Z5Dkx1U0XUEiUVx3m4Z72UsnAxp6luo04NhTDqHOxfs',
         description:'DURABLE PTO YOKES AND ASSEMBLIES, DESIGNED FOR EFFICIENT POWER TRANSMISSION FROM TRACTOR TO ROTAVATOR. MANUFACTURED WITH PRECISION MACHINING AND HEAT-TREATED FOR MAXIMUM STRENGTH. ',
         search:['ROTAVATORS']
     },
@@ -93,7 +93,7 @@ export let products=[
     {
         id:13,
         name:'CROWN GEAR',
-        image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TVdCcc8Tja36WbDYqnXigHgBjUZUh-C662gHoiGx7-u8LSFG',
+        image:'https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8RHuGeqQtvgSF60gntAJ3MI9f8tsYpsXIF6GNR1dPMFTOraW2',
         description:'OUR CROWN GEARS ARE DESIGNED FOR EFFICIENT TORQUE TRANSFER AT RIGHT ANGLES. MADE FROM HARDENED ALLOY STEEL, THEY ENSURE DURABILITY, STRENGTH, AND SMOOTH PERFORMANCE IN FARM MACHINERY.',
         search:['COMBINE HARVESTERS AND BALERS']
     },
