@@ -530,6 +530,121 @@ h4{
     font-size: 19px;
     
 }
+
+.box5{
+    margin-top: 40px;
+    padding-left: 3%;
+    padding-right: 3%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 20px;
+    padding-bottom: 60px;
+}
+.blogs-article{
+    border-radius: 6px;
+    border: 1px solid rgb(154, 22, 22);
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.article-img{
+    width: 100%;
+}
+.article-description{
+  color:rgba(86, 85, 85, 0.824);
+  margin-bottom: 27px;
+  max-height: 75px;
+  white-space:pre-wrap;
+  text-overflow: ellipsis;
+  width: 100%;
+  overflow: hidden;
+}
+.article-name{
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+.article-name a{
+    
+    cursor: pointer;
+    /* color: rgba(171, 23, 23, 0.912); */
+    color: navy;
+    text-decoration: none;
+}
+.article-name a:hover{
+    color: rgb(147, 20, 20);
+}
+.article-name h3{
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+}
+.article-btn button{
+    height: 44px;
+    padding-right: 14px;
+    padding-left: 14px;
+    font-size: 17px;
+    font-weight: 600;
+    color: white;
+    background-color: rgba(207, 27, 27, 0.926);
+    /* background-color: navy; */
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.article-btn button:hover{
+    background-color: rgb(192, 8, 8);
+}
+.blog-page-nav{
+    display: flex;
+    justify-content: center;
+    align-items: cneter;
+    margin-bottom: 50px;
+}
+.blog-page-nav button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border: 0;
+    width: 50px;
+    border-radius: 5px;
+    font-size: 24px;
+    background-color: transparent;
+    cursor: pointer;
+    background-color: navy;
+    color: white;
+
+}
+.blog-nav-number{
+    
+    margin-top: 10px;
+    font-size: 19px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.box6{
+    padding-left: 4%;
+    padding-right: 4%;
+    display: grid;
+    grid-template-rows: 1fr;
+    row-gap: 30px;
+    padding-bottom: 50px;
+}
+.oarticle-para-start{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box6 h1,.box6 h2{
+    color: rgba(200, 31, 31, 0.886);
+}
+.box6 p{
+    color: rgb(88, 82, 82);
+    font-size: 21px; 
+}
 @media (max-width:630px){
     .navbar{
         display: none;
@@ -769,6 +884,16 @@ h4{
     padding-bottom: 5px;
     font-size: 15px;
 }
+
+    .box5{
+    grid-template-columns: 1fr;
+}
+
+
+
+.box6 p{
+    font-size: 18px; 
+}
     }
 
 @media (min-width:631px) and (max-width:1000px){
@@ -994,5 +1119,9 @@ h4{
         color: rgb(235, 235, 235);
         background-color: black;
         padding-left: 10px;
+    }
+
+    .box5{
+        grid-template-columns: 1fr 1fr;
     }
 }
