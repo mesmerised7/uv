@@ -142,7 +142,7 @@ width: 45px;
 .intropara{
     width: 100%;
     position:absolute;
-    top: 55%;
+    top:0%;
     display: flex;
     flex-direction: column;
     justify-content: center;
